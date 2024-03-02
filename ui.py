@@ -1,4 +1,3 @@
-from cgitb import text
 import tkinter as tk
 from quiz_brain import QuizBrain
 THEME_COLOR = "#BC7AF9"
